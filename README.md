@@ -6,3 +6,5 @@
 - Faça um commit
 - Realize um push
 - Convide um colaborador
+
+"Beba água"
